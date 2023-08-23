@@ -1,0 +1,26 @@
+{
+  "name": "mdict-js",
+  "version": "1.0.0",
+  "description": "A js lib of parse mdict files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haruffy/mdict-js.git"
+  },
+  "keywords": [
+    "mdict",
+    "js",
+    "mdd",
+    "mdx",
+    "dict"
+  ],
+  "author": "haruffy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haruffy/mdict-js/issues"
+  },
+  "homepage": "https://github.com/haruffy/mdict-js#readme"
+}
